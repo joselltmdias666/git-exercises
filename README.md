@@ -1,7 +1,15 @@
 
 # git-exercises
-added .editorconfig
+José Dias
+
+-added- 
+.editorconfig
 .gitignore
 .dockerignore
 
+app.py
+
+TL;DR
+
+invoke by using "python script.py <name>"
 
