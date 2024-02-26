@@ -7,9 +7,9 @@ José Dias
 .gitignore
 .dockerignore
 
-app.py
+app.py-TL;DR
+invoke by using "python app.py <name>"
 
-TL;DR
-
-invoke by using "python script.py <name>"
+source.py-TL;DR
+invoke by using "python source.py <name>"
 
